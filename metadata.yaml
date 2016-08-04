@@ -1,0 +1,33 @@
+_repo: The-Children_2012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meynell, Alice
+    aliases:
+    - Thompson, A. C. (Alice Christiana)
+    - Meynell, Alice Christiana Thompson
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '546'
+    url: http://www.gutenberg.org/2009/agents/546
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Meynell
+description: ''
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Children'
+- GITenberg
+tableOfContents: Fellow travellers with a bird, I -- Fellow travellers with a bird,
+  II -- Children in midwinter -- That pretty person -- Out of town -- Expression --
+  Under the early stars -- The man with two heads -- Children in burlesque -- Authorship
+  -- Letters -- The fields -- The barren shore -- The boy -- Illness -- The young
+  child -- Fair and brown -- Real childhood.
+title: The Children
+url: http://www.gutenberg.org/ebooks/2012
